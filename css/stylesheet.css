@@ -1,0 +1,13 @@
+a:link {
+    text-decoration: none;
+  }
+body{
+    background-image: url("https://images.unsplash.com/photo-1580933073521-dc49ac0d4e6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&crop=auto");
+}
+
+.logo-image{
+    width: 40px;
+    height: 40x;
+    border-radius: 50%;
+
+}
