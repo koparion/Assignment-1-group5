@@ -13,3 +13,6 @@ Once you have decided on a cause, begin by selecting one teammate to create a Gi
 ●	Thoughtful styling has been applied.
 ●	Create issues for each of the different pages and aspects of the site and assign each to a teammate. You'll be expected to create at least 3 issues
 ●	Make sure that the commit messages for commits involving each issue reference the issue. For instance, git commit -m "Menu completed, closes #14'
+
+![homePage](https://user-images.githubusercontent.com/81392804/156001893-1c824230-36ea-4093-9921-f1ad9ea9a8ca.png)
+
